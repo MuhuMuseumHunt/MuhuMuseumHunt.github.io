@@ -36,10 +36,7 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.flaticon-piggy-bank:before { content: "\f100"; }
-.flaticon-wallet:before { content: "\f101"; }
-.flaticon-file:before { content: "\f102"; }
-.flaticon-locked:before { content: "\f103"; }
-.flaticon-bed:before { content: "\f104"; }
-.flaticon-bathtub:before { content: "\f105"; }
-.flaticon-floor-plan:before { content: "\f106"; }
+.flaticon-tailor:before { content: "\f100"; }
+.flaticon-content:before { content: "\f101"; }
+.flaticon-dive:before { content: "\f102"; }
+.flaticon-smartphone:before { content: "\f103"; }
