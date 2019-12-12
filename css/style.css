@@ -9964,5 +9964,14 @@ textarea.form-control {
   height: 80vh;
 }
 
-.work_flow {
+.vicino {
+  margin-top: -5rem !important;
+  padding-top: 0rem !important;
+}
+
+.videone {
+  text-align: center;
+  width: 80vw;
+  height: 90vh;
+  margin: 0 0 0 3rem;
 }
