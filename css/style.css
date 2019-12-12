@@ -9979,3 +9979,20 @@ textarea.form-control {
 .descriptive {
   padding-top: 3rem;
 }
+
+#mailchimp {
+  max-width: 45vw;
+  font-family: inherit !important;
+  font-size: inherit !important;
+  text-align: center;
+  margin-left: 28vw;
+}
+
+.btn_1 {
+  padding-left: 0em;
+  padding: 1em 3em 1em 3em;
+}
+
+#mailchimp h1, h5, .clear {
+  text-align: center;
+}
