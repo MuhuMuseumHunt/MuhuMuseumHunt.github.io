@@ -9975,3 +9975,7 @@ textarea.form-control {
   height: 90vh;
   margin: 0 0 0 3rem;
 }
+
+.descriptive {
+  padding-top: 3rem;
+}
