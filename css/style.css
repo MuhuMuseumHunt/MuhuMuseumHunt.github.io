@@ -9996,3 +9996,11 @@ textarea.form-control {
 #mailchimp h1, h5, .clear {
   text-align: center;
 }
+
+.team {
+  padding-left: 7em;
+}
+
+.clear {
+  padding: 0em !important;
+}
